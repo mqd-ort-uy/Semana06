@@ -10,7 +10,7 @@ namespace Semana06
     {
         public virtual void MetodoA()
         {
-            Console.WriteLine("Soy el metodo A");
+            Console.WriteLine("Hago un cambio");
         }
 
         // método abstracto no tiene cuerpo
