@@ -12,5 +12,10 @@ namespace Semana06
         {
             Console.WriteLine("Soy el metodo B implementado en clase C");
         }
+
+        public void MetodoNuevo()
+        {
+            Console.WriteLine("Soy el metodo B implementado en clase C");
+        }
     }
 }
