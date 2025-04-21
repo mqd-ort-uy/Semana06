@@ -18,7 +18,7 @@ namespace Semana06
             Console.WriteLine("Soy el metodo B implementado por la clase B");
         }
 
-        public override void MetodoNuevo()
+        public void MetodoNuevo()
         {
             Console.WriteLine("Soy el metodo B implementado por la clase B");
         }
